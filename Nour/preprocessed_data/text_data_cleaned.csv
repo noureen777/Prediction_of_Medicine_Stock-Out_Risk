@@ -1,0 +1,401 @@
+category,text_clean
+storage_issue,pharmacies in giza reported issues with antidepressants. they cited humidity and contamination.
+storage_issue,a weekly report from delta region connected antidepressants instability to power cut and storage.
+import_delay,"in giza, anticoagulants availability has dropped. reports mention queue and complications from import."
+manufacturing_issue,"in coastal governorates, anticoagulants availability has dropped. reports mention breakdown and complications from batch. additional concerns include capacity."
+manufacturing_issue,pharmacies in giza reported issues with asthma inhalers. they cited raw material and line.
+seasonal_variation,a weekly report from upper egypt connected iv fluids instability to virus and seasonal. additional concerns include seasonal.
+forecasting_error,pharmacies in coastal governorates reported issues with antidepressants. they cited assumption and scenario. additional concerns include miscalculated.
+neutral_report,pharmacies in upper egypt reported stable availability of cancer medicines this week.
+neutral_report,supply levels for insulin in coastal governorates remained normal.
+labor_shortage,pharmacies in giza reported issues with antihistamines. they cited overtime and resignations.
+storage_issue,a weekly report from coastal governorates connected antiviral tablets instability to temperature and storage. additional concerns include mold.
+quality_control_issue,a weekly report from canal cities connected antiviral tablets instability to lab and complaint.
+neutral_report,routine updates from coastal governorates showed no major issues for antiviral tablets.
+regulation_issue,a weekly report from coastal governorates connected painkillers instability to regulation and license.
+demand_spike,pharmacies in new urban communities reported issues with asthma inhalers. they cited unusual and peak. additional concerns include rush.
+demand_spike,pharmacies in canal cities reported issues with insulin. they cited rush and panic buying. additional concerns include panic buying.
+seasonal_variation,pharmacies in giza reported issues with iv fluids. they cited winter and season.
+regulation_issue,a weekly report from upper egypt connected insulin instability to new rules and approval.
+neutral_report,routine updates from new urban communities showed no major issues for cancer medicines.
+currency_issue,pharmacies in alexandria reported issues with oral rehydration salts. they cited foreign and reserve.
+distribution_center_issue,"in canal cities, antidepressants availability has dropped. reports mention unloading and complications from queue."
+neutral_report,supply levels for blood pressure drugs in upper egypt remained normal.
+contract_dispute,a weekly report from new urban communities connected asthma inhalers instability to penalty and terms. additional concerns include contract.
+regulation_issue,pharmacies in cairo reported issues with children's syrup. they cited warning and new rules. additional concerns include banned.
+manufacturing_issue,"in cairo, children's syrup availability has dropped. reports mention interruption and complications from defect. additional concerns include defect."
+regulation_issue,"in upper egypt, anticoagulants availability has dropped. reports mention restriction and complications from compliance. additional concerns include new rules."
+demand_spike,pharmacies in alexandria reported issues with iv fluids. they cited surge and unusual. additional concerns include demand.
+neutral_report,routine updates from canal cities showed no major issues for antibiotics.
+neutral_report,pharmacies in upper egypt reported stable availability of insulin this week.
+contract_dispute,"in delta region, asthma inhalers availability has dropped. reports mention pricing and complications from dispute. additional concerns include delay."
+labor_shortage,a weekly report from cairo connected antiviral tablets instability to turnover and strike.
+neutral_report,pharmacies in coastal governorates reported stable availability of asthma inhalers this week.
+transport_issue,"in canal cities, antihistamines availability has dropped. reports mention bridge and complications from road."
+contract_dispute,"in upper egypt, painkillers availability has dropped. reports mention negotiation and complications from dispute."
+manufacturing_issue,"in giza, antihistamines availability has dropped. reports mention raw material and complications from defect. additional concerns include maintenance."
+regulation_issue,"in new urban communities, vitamins availability has dropped. reports mention safety and complications from banned. additional concerns include safety."
+currency_issue,pharmacies in alexandria reported issues with asthma inhalers. they cited payment and hard currency. additional concerns include dollar.
+supplier_problem,pharmacies in upper egypt reported issues with vitamins. they cited under-performing and disruption.
+neutral_report,no significant disruptions were noted for vitamins in new urban communities.
+supplier_problem,a weekly report from coastal governorates connected asthma inhalers instability to supplier and late.
+neutral_report,pharmacies in new urban communities reported stable availability of cancer medicines this week.
+demand_spike,a weekly report from new urban communities connected anticoagulants instability to shortage and panic buying. additional concerns include high.
+storage_issue,a weekly report from canal cities connected antibiotics instability to storage and leak. additional concerns include storage.
+quality_control_issue,pharmacies in coastal governorates reported issues with vitamins. they cited contamination and test.
+neutral_report,supply levels for insulin in cairo remained normal.
+currency_issue,a weekly report from new urban communities connected anticoagulants instability to price and currency. additional concerns include price.
+manufacturing_issue,pharmacies in alexandria reported issues with insulin. they cited shutdown and factory. additional concerns include maintenance.
+manufacturing_issue,"in cairo, oral rehydration salts availability has dropped. reports mention raw material and complications from defect. additional concerns include production."
+supplier_problem,a weekly report from cairo connected blood pressure drugs instability to disruption and supplier. additional concerns include supplier.
+neutral_report,pharmacies in giza reported stable availability of painkillers this week.
+neutral_report,supply levels for painkillers in upper egypt remained normal.
+currency_issue,pharmacies in canal cities reported issues with vitamins. they cited price and reserve.
+neutral_report,no significant disruptions were noted for anticoagulants in giza.
+forecasting_error,"in giza, blood pressure drugs availability has dropped. reports mention planning and complications from projection. additional concerns include projection."
+seasonal_variation,"in cairo, antibiotics availability has dropped. reports mention winter and complications from virus. additional concerns include trend."
+neutral_report,pharmacies in alexandria reported stable availability of children's syrup this week.
+transport_issue,pharmacies in alexandria reported issues with antidepressants. they cited accident and detour.
+neutral_report,supply levels for children's syrup in upper egypt remained normal.
+currency_issue,a weekly report from alexandria connected antibiotics instability to currency and devaluation. additional concerns include payment.
+distribution_center_issue,pharmacies in canal cities reported issues with vitamins. they cited capacity and distribution center.
+forecasting_error,"in cairo, blood pressure drugs availability has dropped. reports mention planning and complications from forecast. additional concerns include trend."
+transport_issue,pharmacies in new urban communities reported issues with iv fluids. they cited accident and blocked. additional concerns include route.
+it_system_failure,pharmacies in delta region reported issues with vitamins. they cited crash and software. additional concerns include software.
+storage_issue,pharmacies in canal cities reported issues with antidepressants. they cited storage and mold.
+regulation_issue,a weekly report from new urban communities connected painkillers instability to safety and warning.
+supplier_problem,a weekly report from new urban communities connected antidepressants instability to supplier and disruption. additional concerns include late.
+neutral_report,supply levels for vitamins in giza remained normal.
+neutral_report,supply levels for anticoagulants in delta region remained normal.
+import_delay,"in coastal governorates, antiviral tablets availability has dropped. reports mention delay and complications from stuck. additional concerns include queue."
+quality_control_issue,pharmacies in new urban communities reported issues with vitamins. they cited out of spec and contamination. additional concerns include failed.
+regulation_issue,"in upper egypt, oral rehydration salts availability has dropped. reports mention new rules and complications from penalty. additional concerns include inspection."
+currency_issue,"in delta region, antiviral tablets availability has dropped. reports mention devaluation and complications from exchange."
+quality_control_issue,pharmacies in coastal governorates reported issues with blood pressure drugs. they cited defect and out of spec.
+supplier_problem,a weekly report from alexandria connected blood pressure drugs instability to disruption and late. additional concerns include under-performing.
+quality_control_issue,"in new urban communities, insulin availability has dropped. reports mention investigation and complications from defect."
+neutral_report,reports from new urban communities indicated stable distribution of oral rehydration salts.
+neutral_report,reports from alexandria indicated stable distribution of antiviral tablets.
+manufacturing_issue,"in coastal governorates, vitamins availability has dropped. reports mention repair and complications from interruption. additional concerns include raw material."
+import_delay,a weekly report from delta region connected insulin instability to delay and customs.
+currency_issue,pharmacies in delta region reported issues with insulin. they cited bank and currency.
+storage_issue,"in giza, asthma inhalers availability has dropped. reports mention power cut and complications from expired."
+forecasting_error,a weekly report from coastal governorates connected anticoagulants instability to overestimated and estimate. additional concerns include overestimated.
+import_delay,pharmacies in cairo reported issues with anticoagulants. they cited stuck and container.
+currency_issue,a weekly report from giza connected antibiotics instability to price and hard currency.
+neutral_report,routine updates from giza showed no major issues for blood pressure drugs.
+import_delay,"in upper egypt, antihistamines availability has dropped. reports mention customs and complications from hold. additional concerns include stuck."
+forecasting_error,"in cairo, antihistamines availability has dropped. reports mention model and complications from unexpected. additional concerns include planning."
+neutral_report,pharmacies in canal cities reported stable availability of antibiotics this week.
+manufacturing_issue,a weekly report from cairo connected children's syrup instability to breakdown and factory. additional concerns include batch.
+it_system_failure,"in canal cities, children's syrup availability has dropped. reports mention server and complications from data. additional concerns include error."
+manufacturing_issue,"in giza, antidepressants availability has dropped. reports mention capacity and complications from breakdown. additional concerns include interruption."
+quality_control_issue,a weekly report from delta region connected antidepressants instability to lab and investigation. additional concerns include contamination.
+forecasting_error,"in delta region, antidepressants availability has dropped. reports mention estimate and complications from underestimated. additional concerns include miscalculated."
+it_system_failure,pharmacies in canal cities reported issues with anticoagulants. they cited system and update. additional concerns include network.
+currency_issue,"in new urban communities, cancer medicines availability has dropped. reports mention currency and complications from dollar. additional concerns include currency."
+neutral_report,pharmacies in new urban communities reported stable availability of antidepressants this week.
+neutral_report,no significant disruptions were noted for antibiotics in coastal governorates.
+seasonal_variation,a weekly report from canal cities connected vitamins instability to summer and trend.
+quality_control_issue,"in new urban communities, antibiotics availability has dropped. reports mention lab and complications from nonconformity. additional concerns include contamination."
+demand_spike,pharmacies in upper egypt reported issues with asthma inhalers. they cited panic buying and spike. additional concerns include unusual.
+supplier_problem,pharmacies in delta region reported issues with oral rehydration salts. they cited cancelled and capacity. additional concerns include capacity.
+contract_dispute,pharmacies in upper egypt reported issues with antidepressants. they cited renewal and negotiation. additional concerns include renewal.
+neutral_report,supply levels for antibiotics in delta region remained normal.
+currency_issue,"in giza, antibiotics availability has dropped. reports mention payment and complications from hard currency."
+import_delay,a weekly report from coastal governorates connected oral rehydration salts instability to import and queue. additional concerns include container.
+supplier_problem,a weekly report from canal cities connected antihistamines instability to disruption and missed.
+neutral_report,no significant disruptions were noted for asthma inhalers in delta region.
+neutral_report,pharmacies in coastal governorates reported stable availability of antihistamines this week.
+contract_dispute,pharmacies in alexandria reported issues with antibiotics. they cited pricing and terms. additional concerns include clause.
+quality_control_issue,pharmacies in upper egypt reported issues with antidepressants. they cited quality and investigation. additional concerns include failed.
+demand_spike,"in canal cities, asthma inhalers availability has dropped. reports mention sudden and complications from spike."
+it_system_failure,"in alexandria, iv fluids availability has dropped. reports mention login and complications from update. additional concerns include login."
+seasonal_variation,"in upper egypt, oral rehydration salts availability has dropped. reports mention summer and complications from holiday."
+import_delay,pharmacies in alexandria reported issues with insulin. they cited stuck and inspection.
+forecasting_error,"in canal cities, oral rehydration salts availability has dropped. reports mention forecast and complications from miscalculated. additional concerns include assumption."
+contract_dispute,pharmacies in giza reported issues with antihistamines. they cited disagreement and pricing. additional concerns include pricing.
+neutral_report,pharmacies in canal cities reported stable availability of anticoagulants this week.
+quality_control_issue,a weekly report from canal cities connected children's syrup instability to out of spec and test.
+neutral_report,routine updates from cairo showed no major issues for antidepressants.
+storage_issue,pharmacies in new urban communities reported issues with insulin. they cited leak and storage. additional concerns include spoilage.
+demand_spike,pharmacies in alexandria reported issues with antihistamines. they cited increase and peak. additional concerns include unusual.
+labor_shortage,pharmacies in giza reported issues with antibiotics. they cited training and shift.
+contract_dispute,pharmacies in canal cities reported issues with vitamins. they cited clause and delay. additional concerns include cancellation.
+currency_issue,pharmacies in giza reported issues with children's syrup. they cited inflation and foreign. additional concerns include devaluation.
+neutral_report,supply levels for antiviral tablets in new urban communities remained normal.
+neutral_report,supply levels for vitamins in new urban communities remained normal.
+storage_issue,a weekly report from cairo connected asthma inhalers instability to storage and contamination. additional concerns include expired.
+forecasting_error,"in cairo, blood pressure drugs availability has dropped. reports mention miscalculated and complications from forecast. additional concerns include projection."
+labor_shortage,"in delta region, painkillers availability has dropped. reports mention resignations and complications from sick leave."
+neutral_report,supply levels for anticoagulants in delta region remained normal.
+it_system_failure,pharmacies in coastal governorates reported issues with anticoagulants. they cited offline and bug.
+quality_control_issue,a weekly report from alexandria connected antidepressants instability to investigation and failed.
+import_delay,"in coastal governorates, antidepressants availability has dropped. reports mention inspection and complications from clearance."
+it_system_failure,a weekly report from coastal governorates connected antihistamines instability to crash and system.
+manufacturing_issue,pharmacies in new urban communities reported issues with antibiotics. they cited production and defect.
+neutral_report,no significant disruptions were noted for antiviral tablets in delta region.
+manufacturing_issue,a weekly report from alexandria connected antiviral tablets instability to repair and defect.
+quality_control_issue,a weekly report from giza connected iv fluids instability to impurity and failed.
+neutral_report,reports from upper egypt indicated stable distribution of cancer medicines.
+seasonal_variation,"in new urban communities, vitamins availability has dropped. reports mention wave and complications from winter."
+neutral_report,no significant disruptions were noted for insulin in delta region.
+labor_shortage,"in upper egypt, antibiotics availability has dropped. reports mention vacancy and complications from sick leave."
+forecasting_error,pharmacies in delta region reported issues with painkillers. they cited unexpected and assumption.
+distribution_center_issue,pharmacies in cairo reported issues with insulin. they cited hub and bottleneck.
+neutral_report,reports from alexandria indicated stable distribution of asthma inhalers.
+distribution_center_issue,"in upper egypt, iv fluids availability has dropped. reports mention backlog and complications from operations."
+quality_control_issue,a weekly report from giza connected blood pressure drugs instability to lab and test.
+labor_shortage,a weekly report from alexandria connected children's syrup instability to strike and training. additional concerns include shortage.
+quality_control_issue,a weekly report from canal cities connected children's syrup instability to defect and nonconformity. additional concerns include out of spec.
+contract_dispute,"in new urban communities, vitamins availability has dropped. reports mention renewal and complications from negotiation."
+distribution_center_issue,a weekly report from cairo connected insulin instability to slowdown and backlog.
+storage_issue,a weekly report from canal cities connected children's syrup instability to temperature and humidity. additional concerns include expired.
+regulation_issue,pharmacies in delta region reported issues with iv fluids. they cited banned and penalty. additional concerns include banned.
+forecasting_error,a weekly report from new urban communities connected oral rehydration salts instability to estimate and scenario.
+quality_control_issue,pharmacies in upper egypt reported issues with blood pressure drugs. they cited out of spec and failed. additional concerns include quality.
+distribution_center_issue,a weekly report from upper egypt connected blood pressure drugs instability to slowdown and loading. additional concerns include operations.
+contract_dispute,"in cairo, antihistamines availability has dropped. reports mention clause and complications from renewal. additional concerns include penalty."
+supplier_problem,pharmacies in alexandria reported issues with blood pressure drugs. they cited capacity and missed. additional concerns include disruption.
+labor_shortage,"in coastal governorates, iv fluids availability has dropped. reports mention staff and complications from labor. additional concerns include sick leave."
+forecasting_error,a weekly report from coastal governorates connected insulin instability to miscalculated and projection.
+seasonal_variation,"in upper egypt, iv fluids availability has dropped. reports mention virus and complications from season."
+distribution_center_issue,"in upper egypt, antidepressants availability has dropped. reports mention distribution center and complications from hub. additional concerns include operations."
+neutral_report,reports from cairo indicated stable distribution of vitamins.
+seasonal_variation,pharmacies in upper egypt reported issues with insulin. they cited summer and seasonal. additional concerns include season.
+demand_spike,pharmacies in cairo reported issues with antidepressants. they cited sudden and demand. additional concerns include high.
+currency_issue,a weekly report from coastal governorates connected oral rehydration salts instability to price and currency. additional concerns include foreign.
+import_delay,"in upper egypt, painkillers availability has dropped. reports mention hold and complications from customs. additional concerns include shipment."
+forecasting_error,pharmacies in coastal governorates reported issues with oral rehydration salts. they cited underestimated and estimate.
+manufacturing_issue,pharmacies in canal cities reported issues with antibiotics. they cited breakdown and production. additional concerns include line.
+neutral_report,pharmacies in upper egypt reported stable availability of iv fluids this week.
+import_delay,a weekly report from delta region connected vitamins instability to dock and container.
+supplier_problem,"in cairo, painkillers availability has dropped. reports mention disruption and complications from capacity. additional concerns include under-performing."
+quality_control_issue,pharmacies in delta region reported issues with painkillers. they cited quality and defect. additional concerns include lab.
+neutral_report,reports from canal cities indicated stable distribution of iv fluids.
+currency_issue,"in alexandria, antibiotics availability has dropped. reports mention price and complications from hard currency. additional concerns include payment."
+it_system_failure,pharmacies in delta region reported issues with asthma inhalers. they cited bug and data. additional concerns include software.
+demand_spike,"in giza, cancer medicines availability has dropped. reports mention shortage and complications from peak."
+currency_issue,a weekly report from canal cities connected iv fluids instability to price and inflation.
+demand_spike,a weekly report from cairo connected children's syrup instability to unusual and spike.
+manufacturing_issue,"in coastal governorates, blood pressure drugs availability has dropped. reports mention repair and complications from maintenance. additional concerns include shutdown."
+regulation_issue,pharmacies in cairo reported issues with insulin. they cited penalty and warning. additional concerns include banned.
+labor_shortage,"in alexandria, insulin availability has dropped. reports mention staff and complications from resignations. additional concerns include turnover."
+neutral_report,supply levels for blood pressure drugs in coastal governorates remained normal.
+regulation_issue,"in cairo, antidepressants availability has dropped. reports mention license and complications from recall."
+quality_control_issue,"in canal cities, iv fluids availability has dropped. reports mention complaint and complications from test. additional concerns include nonconformity."
+labor_shortage,a weekly report from delta region connected blood pressure drugs instability to strike and sick leave.
+demand_spike,"in giza, antihistamines availability has dropped. reports mention high and complications from demand."
+supplier_problem,a weekly report from giza connected painkillers instability to cancelled and capacity. additional concerns include supplier.
+neutral_report,pharmacies in cairo reported stable availability of antibiotics this week.
+supplier_problem,pharmacies in upper egypt reported issues with oral rehydration salts. they cited late and under-performing.
+seasonal_variation,a weekly report from canal cities connected insulin instability to holiday and winter. additional concerns include trend.
+manufacturing_issue,a weekly report from new urban communities connected oral rehydration salts instability to production and factory. additional concerns include repair.
+supplier_problem,a weekly report from delta region connected antiviral tablets instability to backlog and under-performing. additional concerns include missed.
+regulation_issue,a weekly report from coastal governorates connected antiviral tablets instability to warning and approval. additional concerns include inspection.
+import_delay,pharmacies in alexandria reported issues with children's syrup. they cited import and customs. additional concerns include inspection.
+seasonal_variation,pharmacies in delta region reported issues with antiviral tablets. they cited festive and trend. additional concerns include trend.
+forecasting_error,"in coastal governorates, cancer medicines availability has dropped. reports mention planning and complications from underestimated. additional concerns include projection."
+manufacturing_issue,a weekly report from giza connected insulin instability to factory and breakdown.
+demand_spike,pharmacies in delta region reported issues with anticoagulants. they cited demand and shortage. additional concerns include demand.
+demand_spike,pharmacies in coastal governorates reported issues with vitamins. they cited surge and demand. additional concerns include high.
+seasonal_variation,"in upper egypt, painkillers availability has dropped. reports mention flu and complications from cold. additional concerns include festive."
+supplier_problem,a weekly report from upper egypt connected children's syrup instability to missed and unreliable.
+manufacturing_issue,a weekly report from upper egypt connected antiviral tablets instability to repair and shutdown.
+neutral_report,no significant disruptions were noted for blood pressure drugs in delta region.
+storage_issue,a weekly report from giza connected vitamins instability to temperature and fridge.
+neutral_report,pharmacies in alexandria reported stable availability of iv fluids this week.
+neutral_report,supply levels for blood pressure drugs in alexandria remained normal.
+distribution_center_issue,pharmacies in new urban communities reported issues with blood pressure drugs. they cited loading and slowdown. additional concerns include queue.
+seasonal_variation,"in new urban communities, blood pressure drugs availability has dropped. reports mention allergy and complications from heat."
+demand_spike,pharmacies in cairo reported issues with antihistamines. they cited demand and peak. additional concerns include rush.
+seasonal_variation,a weekly report from alexandria connected blood pressure drugs instability to seasonal and wave. additional concerns include virus.
+it_system_failure,a weekly report from cairo connected oral rehydration salts instability to network and slow. additional concerns include offline.
+currency_issue,a weekly report from coastal governorates connected antibiotics instability to bank and exchange.
+forecasting_error,a weekly report from delta region connected children's syrup instability to projection and underestimated. additional concerns include assumption.
+currency_issue,a weekly report from delta region connected asthma inhalers instability to inflation and exchange. additional concerns include hard currency.
+storage_issue,"in alexandria, cancer medicines availability has dropped. reports mention leak and complications from spoilage. additional concerns include mold."
+distribution_center_issue,"in giza, oral rehydration salts availability has dropped. reports mention backlog and complications from slowdown."
+storage_issue,a weekly report from cairo connected anticoagulants instability to spoilage and fridge. additional concerns include warehouse.
+neutral_report,supply levels for insulin in cairo remained normal.
+forecasting_error,a weekly report from giza connected children's syrup instability to estimate and trend.
+it_system_failure,pharmacies in cairo reported issues with asthma inhalers. they cited downtime and software. additional concerns include update.
+forecasting_error,a weekly report from new urban communities connected oral rehydration salts instability to overestimated and projection.
+supplier_problem,a weekly report from new urban communities connected vitamins instability to capacity and quota.
+labor_shortage,"in cairo, insulin availability has dropped. reports mention resignations and complications from absent."
+manufacturing_issue,"in canal cities, antihistamines availability has dropped. reports mention capacity and complications from production."
+supplier_problem,a weekly report from new urban communities connected cancer medicines instability to backlog and supplier. additional concerns include backlog.
+it_system_failure,pharmacies in giza reported issues with iv fluids. they cited error and slow.
+contract_dispute,"in canal cities, asthma inhalers availability has dropped. reports mention renewal and complications from terms. additional concerns include renewal."
+currency_issue,a weekly report from upper egypt connected antibiotics instability to currency and hard currency.
+transport_issue,pharmacies in canal cities reported issues with painkillers. they cited traffic and congestion. additional concerns include accident.
+forecasting_error,a weekly report from upper egypt connected painkillers instability to underestimated and overestimated. additional concerns include forecast.
+currency_issue,a weekly report from new urban communities connected blood pressure drugs instability to inflation and exchange. additional concerns include rate.
+neutral_report,pharmacies in cairo reported stable availability of asthma inhalers this week.
+regulation_issue,a weekly report from giza connected vitamins instability to approval and license. additional concerns include license.
+storage_issue,"in new urban communities, cancer medicines availability has dropped. reports mention spoilage and complications from fridge."
+forecasting_error,a weekly report from new urban communities connected antidepressants instability to miscalculated and estimate.
+supplier_problem,"in cairo, children's syrup availability has dropped. reports mention limit and complications from under-performing. additional concerns include late."
+supplier_problem,a weekly report from new urban communities connected children's syrup instability to supplier and under-performing. additional concerns include cancelled.
+neutral_report,routine updates from coastal governorates showed no major issues for blood pressure drugs.
+neutral_report,supply levels for blood pressure drugs in alexandria remained normal.
+neutral_report,routine updates from upper egypt showed no major issues for asthma inhalers.
+transport_issue,pharmacies in alexandria reported issues with anticoagulants. they cited detour and accident. additional concerns include traffic.
+labor_shortage,a weekly report from coastal governorates connected vitamins instability to staff and strike. additional concerns include sick leave.
+seasonal_variation,"in new urban communities, blood pressure drugs availability has dropped. reports mention cold and complications from festive. additional concerns include festive."
+storage_issue,a weekly report from alexandria connected anticoagulants instability to expired and humidity. additional concerns include expired.
+manufacturing_issue,"in coastal governorates, insulin availability has dropped. reports mention batch and complications from breakdown. additional concerns include production."
+distribution_center_issue,"in canal cities, insulin availability has dropped. reports mention hub and complications from capacity. additional concerns include processing."
+neutral_report,reports from alexandria indicated stable distribution of asthma inhalers.
+labor_shortage,pharmacies in new urban communities reported issues with iv fluids. they cited turnover and vacancy. additional concerns include absent.
+distribution_center_issue,pharmacies in coastal governorates reported issues with painkillers. they cited loading and capacity. additional concerns include backlog.
+quality_control_issue,"in canal cities, antibiotics availability has dropped. reports mention defect and complications from complaint. additional concerns include test."
+neutral_report,routine updates from giza showed no major issues for oral rehydration salts.
+quality_control_issue,"in new urban communities, anticoagulants availability has dropped. reports mention nonconformity and complications from failed. additional concerns include complaint."
+it_system_failure,a weekly report from new urban communities connected iv fluids instability to crash and system.
+storage_issue,pharmacies in upper egypt reported issues with oral rehydration salts. they cited power cut and humidity.
+neutral_report,no significant disruptions were noted for asthma inhalers in alexandria.
+neutral_report,no significant disruptions were noted for iv fluids in new urban communities.
+currency_issue,a weekly report from upper egypt connected children's syrup instability to foreign and inflation.
+currency_issue,a weekly report from new urban communities connected antibiotics instability to payment and foreign. additional concerns include reserve.
+storage_issue,a weekly report from upper egypt connected child ...ren's syrup instability to expired and power cut.
+import_delay,a weekly report from coastal governorates connected anticoagulants instability to stuck and clearance. additional concerns include shipment.
+it_system_failure,pharmacies in giza reported issues with insulin. they cited network and login. additional concerns include bug.
+regulation_issue,pharmacies in canal cities reported issues with antiviral tablets. they cited recall and approval. additional concerns include banned.
+manufacturing_issue,pharmacies in alexandria reported issues with anticoagulants. they cited breakdown and repair. additional concerns include shutdown.
+currency_issue,a weekly report from new urban communities connected insulin instability to reserve and price.
+neutral_report,no significant disruptions were noted for antidepressants in upper egypt.
+seasonal_variation,pharmacies in delta region reported issues with oral rehydration salts. they cited festive and allergy. additional concerns include trend.
+regulation_issue,pharmacies in coastal governorates reported issues with antiviral tablets. they cited warning and new rules.
+labor_shortage,a weekly report from cairo connected anticoagulants instability to sick leave and strike.
+demand_spike,a weekly report from cairo connected blood pressure drugs instabilit y to shortage and panic buying. additional concerns include unusual.
+manufacturing_issue,a weekly report from canal cities connected cancer medicines instability to interruption and batch.
+demand_spike,a weekly report from cairo connected asthma inhalers instability to unusual and sudden. additional concerns include demand.
+demand_spike,a weekly report from coastal governorates connected cancer medicines instability to peak and shortage.
+neutral_report,no significant disruptions were noted for asthma inhalers in giza.
+supplier_problem,"in new urban communities, children's syrup availability has dropped. reports mention missed and complications from quota. additional concerns include late."
+currency_issue,a weekly report from giza connected blood pressure drugs instability to reserve and foreign. additional concerns include bank.
+regulation_issue,"in upper egypt, cancer medicines availability has dropped. reports mention regulation and complications from approval. additional concerns include inspection."
+manufacturing_issue,a weekly report from giza connected asthma inhalers instability to breakdown and line. additional concerns include capacity.
+manufacturing_issue,a weekly report from canal cities connected antibiotics instability to repair and shutdown.
+transport_issue,"in alexandria, cancer medicines availability has dropped. reports mention blocked and complications from transport."
+transport_issue,"in cairo, children's syrup availability has dropped. reports mention congestion and complications from blocked. additional concerns include detour."
+it_system_failure,pharmacies in cairo reported issues with antibiotics. they cited crash and system. additional concerns include bug.
+neutral_report,routine updates from canal cities showed no major issues for children's syrup.
+neutral_report,reports from giza indicated stable distribution of insulin.
+seasonal_variation,pharmacies in delta region reported issues with anticoagulants. they cited trend and wave.
+import_delay,pharmacies in delta region reported issues with antidepressants. they cited queue and hold. additional concerns include hold.
+manufacturing_issue,pharmacies in new urban communities reported issues with vitamins. they cited defect and line. additional concerns include production.
+regulation_issue,a weekly report from upper egypt connected insulin instability to compliance and restriction.
+demand_spike,a weekly report from giza connected painkillers instability to unusual and high. additional concerns include spike.
+import_delay,"in canal cities, vitamins availability has dropped. reports mention stuck and complications from dock."
+neutral_report,routine updates from delta region showed no major issues for insulin.
+contract_dispute,"in upper egypt, iv fluids availability has dropped. reports mention clause and complications from contract. additional concerns include delay."
+neutral_report,supply levels for painkillers in cairo remained normal.
+neutral_report,pharmacies in upper egypt reported stable availability of painkillers this week.
+currency_issue,"in giza, antibiotics availability has dropped. reports mention payment and complications from foreign."
+forecasting_error,"in alexandria, asthma inhalers availability has dropped. reports mention underestimated and complications from miscalculated. additional concerns include unexpected."
+transport_issue,pharmacies in new urban communities reported issues with anticoagulants. they cited traffic and transport.
+demand_spike,"in coastal governorates, cancer medicines availability has dropped. reports mention increase and complications from sudden. additional concerns include spike."
+distribution_center_issue,pharmacies in alexandria reported issues with anticoagulants. they cited distribution center and loading.
+labor_shortage,pharmacies in cairo reported issues with iv fluids. they cited shift and sick leave.
+seasonal_variation,pharmacies in canal cities reported issues with vitamins. they cited cold and virus. additional concerns include allergy.
+it_system_failure,"in new urban communities, antiviral tablets availability has dropped. reports mention software and complications from error. additional concerns include data."
+neutral_report,routine updates from upper egypt showed no major issues for children's syrup.
+manufacturing_issue,pharmacies in canal cities reported issues with insulin. they cited batch and production.
+neutral_report,routine updates from new urban communities showed no major issues for insulin.
+distribution_center_issue,"in new urban communities, oral rehydration salts availability has dropped. reports mention hub and complications from sorting."
+regulation_issue,"in cairo, iv fluids availability has dropped. reports mention inspection and complications from compliance. additional concerns include restriction."
+demand_spike,a weekly report from coastal governorates connected blood pressure drugs instability to unusual and increase. additional concerns include unusual.
+contract_dispute,pharmacies in delta region reported issues with vitamins. they cited cancellation and penalty.
+supplier_problem,pharmacies in giza reported issues with iv fluids. they cited backlog and supplier. additional concerns include late.
+supplier_problem,"in cairo, antibiotics availability has dropped. reports mention capacity and complications from quota. additional concerns include supplier."
+import_delay,"in cairo, antibiotics availability has dropped. reports mention inspection and complications from dock."
+import_delay,"in alexandria, anticoagulants availability has dropped. reports mention port and complications from queue. additional concerns include queue."
+neutral_report,no significant disruptions were noted for vitamins in upper egypt.
+import_delay,"in alexandria, cancer medicines availability has dropped. reports mention clearance and complications from import."
+it_system_failure,a weekly report from canal cities connected antiviral tablets instability to system and software. additional concerns include offline.
+transport_issue,pharmacies in coastal governorates reported issues with iv fluids. they cited blocked and accident. additional concerns include closure.
+transport_issue,a weekly report from giza connected painkillers instability to truck and road. additional concerns include accident.
+import_delay,"in new urban communities, vitamins availability has dropped. reports mention import and complications from delay. additional concerns include delay."
+distribution_center_issue,a weekly report from canal cities connected children's syrup instability to bottleneck and queue.
+neutral_report,reports from delta region indicated stable distribution of painkillers.
+transport_issue,"in giza, insulin availability has dropped. reports mention route and complications from detour. additional concerns include truck."
+import_delay,pharmacies in canal cities reported issues with asthma inhalers. they cited stuck and inspection. additional concerns include dock.
+neutral_report,no significant disruptions were noted for anticoagulants in cairo.
+transport_issue,a weekly report from new urban communities connected blood pressure drugs instability to truck and congestion.
+currency_issue,pharmacies in cairo reported issues with asthma inhalers. they cited dollar and bank. additional concerns include reserve.
+manufacturing_issue,pharmacies in cairo reported issues with vitamins. they cited line and repair. additional concerns include raw material.
+currency_issue,"in cairo, blood pressure drugs availability has dropped. reports mention dollar and complications from foreign."
+neutral_report,no significant disruptions were noted for vitamins in alexandria.
+neutral_report,reports from new urban communities indicated stable distribution of anticoagulants.
+neutral_report,reports from giza indicated stable distribution of blood pressure drugs.
+neutral_report,reports from upper egypt indicated stable distribution of anticoagulants.
+it_system_failure,"in coastal governorates, blood pressure drugs availability has dropped. reports mention downtime and complications from offline. additional concerns include error."
+it_system_failure,a weekly report from new urban communities connected cancer medicines instability to offline and slow.
+neutral_report,routine updates from upper egypt showed no major issues for antihistamines.
+import_delay,pharmacies in alexandria reported issues with cancer medicines. they cited inspection and customs. additional concerns include delay.
+contract_dispute,"in alexandria, antihistamines availability has dropped. reports mention penalty and complications from pricing. additional concerns include pricing."
+import_delay,pharmacies in upper egypt reported issues with oral rehydration salts. they cited dock and stuck.
+neutral_report,pharmacies in coastal governorates reported stable availability of oral rehydration salts this week.
+transport_issue,pharmacies in cairo reported issues with anticoagulants. they cited bridge and delay. additional concerns include closure.
+forecasting_error,"in upper egypt, iv fluids availability has dropped. reports mention scenario and complications from model."
+storage_issue,pharmacies in canal cities reported issues with children's syrup. they cited leak and damage.
+import_delay,pharmacies in giza reported issues with oral rehydration salts. they cited stuck and offloading.
+it_system_failure,a weekly report from canal cities connected oral rehydration salts instability to login and slow. additional concerns include update.
+storage_issue,pharmacies in canal cities reported issues with iv fluids. they cited contamination and humidity.
+neutral_report,routine updates from coastal governorates showed no major issues for insulin.
+manufacturing_issue,"in delta region, cancer medicines availability has dropped. reports mention factory and complications from capacity. additional concerns include interruption."
+neutral_report,pharmacies in coastal governorates reported stable availability of insulin this week.
+forecasting_error,pharmacies in canal cities reported issues with insulin. they cited unexpected and scenario.
+manufacturing_issue,pharmacies in coastal governorates reported issues with vitamins. they cited factory and repair.
+seasonal_variation,"in new urban communities, asthma inhalers availability has dropped. reports mention heat and complications from festive. additional concerns include cold."
+transport_issue,pharmacies in new urban communities reported issues with oral rehydration salts. they cited closure and transport.
+quality_control_issue,"in upper egypt, antihistamines availability has dropped. reports mention lab and complications from investigation. additional concerns include lab."
+seasonal_variation,a weekly report from delta region connected antibiotics instability to trend and winter. additional concerns include season.
+seasonal_variation,"in canal cities, anticoagulants availability has dropped. reports mention festive and complications from season. additional concerns include virus."
+distribution_center_issue,pharmacies in cairo reported issues with asthma inhalers. they cited processing and backlog.
+neutral_report,reports from giza indicated stable distribution of oral rehydration salts.
+labor_shortage,pharmacies in alexandria reported issues with painkillers. they cited overtime and shortage. additional concerns include resignations.
+storage_issue,a weekly report from upper egypt connected antihistamines instability to warehouse and expired. additional concerns include fridge.
+neutral_report,routine updates from coastal governorates showed no major issues for antibiotics.
+regulation_issue,pharmacies in delta region reported issues with antiviral tablets. they cited recall and approval.
+demand_spike,a weekly report from cairo connected blood pressure drugs instability to shortage and increase.
+storage_issue,"in delta region, insulin availability has dropped. reports mention fridge and complications from mold."
+seasonal_variation,"in canal cities, cancer medicines availability has dropped. reports mention trend and complications from summer."
+it_system_failure,pharmacies in giza reported issues with cancer medicines. they ...cited network and update. additional concerns include downtime.
+currency_issue,"in upper egypt, blood pressure drugs availability has dropped. reports mention foreign and complications from dollar. additional concerns include foreign."
+contract_dispute,"in upper egypt, anticoagulants availability has dropped. reports mention disagreement and complications from pricing."
+currency_issue,a weekly report from upper egypt connected antibiotics instability to devaluation and price.
+import_delay,"in cairo, asthma inhalers availability has dropped. reports mention import and complications from port."
+neutral_report,reports from giza indicated stable distribution of blood pressure drugs.
+transport_issue,"in coastal governorates, iv fluids availability has dropped. reports mention closure and complications from detour. additional concerns include fuel."
+storage_issue,"in upper egypt, anticoagulants availability has dropped. reports mention fridge and complications from power cut. additional concerns include leak."
+storage_issue,"in cairo, children's syrup availability has dropped. reports mention storage and complications from temperature. additional concerns include leak."
+forecasting_error,a weekly report from upper egypt connected cancer medicines instability to estimate and trend. additional concerns include underestimated.
+manufacturing_issue,"in giza, antiviral tablets availability has dropped. reports mention interrup ...tion and complications from capacity. additional concerns include maintenance."
+seasonal_variation,pharmacies in delta region reported issues with antihistamines. they cited season and heat. additional concerns include flu.
+seasonal_variation,pharmacies in coastal governorates reported issues with antiviral tablets. they cited holiday and winter.
+forecasting_error,pharmacies in alexandria reported issues with antibiotics. they cited overestimated and miscalculated. additional concerns include overestimated.
+forecasting_error,"in new urban communities, anticoagulants availability has dropped. reports mention scenario and complications from estimate. additional concerns include unexpected."
+seasonal_variation,a weekly report from giza connected antidepressants instability to virus and holiday. additional concerns include seasonal.
+regulation_issue,"in coastal governorates, children's syrup availability has dropped. reports mention warning and complications from new rules."
+neutral_report,reports from new urban communities indicated stable distribution of insulin.
+labor_shortage,a weekly report from giza connected painkillers instability to labor and turnover.
+neutral_report,routine updates from new urban communities showed no major issues for anticoagulants.
+supplier_problem,pharmacies in canal cities reported issues with antihistamines. they cited disruption and late.
+transport_issue,"in upper egypt, iv fluids availability has dropped. reports mention truck and complications from congestion. additional concerns include route."
+forecasting_error,a weekly report from canal cities connected insulin instability to planning and forecast. additional concerns include forecast.
+transport_issue,a weekly report from canal cities connected asthma inhalers instability to route and blocked. additional concerns include congestion.
+manufacturing_issue,pharmacies in delta region reported issues with anticoagulants. they cited production and capacity.
+import_delay,pharmacies in canal cities reported issues with antidepressants. they cited stuck and inspection. additional concerns include shipment.
+regulation_issue,pharmacies in upper egypt reported issues with cancer medicines. they cited warning and new rules. additional concerns include safety.
+currency_issue,pharmacies in giza reported issues with anticoagulants. they cited price and exchange. additional concerns include inflation.
+labor_shortage,pharmacies in coastal governorates reported issues with children's syrup. they cited shift and sick leave.
+storage_issue,a weekly report from alexandria connected iv fluids instability to damage and temperature. additional concerns include leak.
+distribution_center_issue,a weekly report from canal cities connected antihistamines instability to backlog and queue. additional concerns include distribution center.
+neutral_report,no significant disruptions were noted for cancer medicines in delta region.
+labor_shortage,pharmacies in coastal governorates reported issues with painkillers. they cited strike and absent.
+distribution_center_issue,"in cairo, asthma inhalers availability has dropped. reports mention processing and complications from slowdown."
+contract_dispute,a weekly report from canal cities connected anticoagulants insta ...bility to renewal and dispute. additional concerns include delay.
+neutral_report,supply levels for antibiotics in cairo remained normal.
