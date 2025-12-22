@@ -1,2 +1,2 @@
 # credit-risk-prediction
-Machine Learning project for credit risk prediction using real-world research data.
+Machine Learning project for the prediction of medicine stockout risk credit risk.
